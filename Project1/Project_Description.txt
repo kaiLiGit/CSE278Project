@@ -1,0 +1,14 @@
+Reads words (separated by whitespace only and not any 
+other punctuation or special characters) from the user 
+until logical end-of-file
+
+Prints the count of words (just an integer) that start with 
+an English vowel, i.e., one of "AEIOUaeiou" characters. 
+
+For example, given just the sentence "Elephants are 
+Awesome animals" the output will be 4. Similarly, for 
+the input "I think I am warming up to c++" the output 
+will be 4 as well. 
+
+
+
