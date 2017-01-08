@@ -1,0 +1,13 @@
+PUT kakuna This is a pokemon that looks like a cocoon
+PUT pikachu Bless you!
+PUT pikachu a charger for me and you
+PUT bulbasaur it can survive for days just on sunlight
+PUT charizard good for making smores
+PUT meowth Member of team rocket
+DELETE bulbasaur
+DELETE victreebel
+SAVE
+PUT geodude Rock type
+SAVE
+DELETE kakuna
+QUIT

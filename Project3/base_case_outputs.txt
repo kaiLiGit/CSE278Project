@@ -1,0 +1,21 @@
+400 Bad Request
+201 Created
+201 Created
+201 Created
+201 Created
+404 Not Found
+pikachu Everyone   knows   this   pokemon
+200 OK
+200 OK
+200 OK
+pikachu 404 Not Found
+404 Not Found
+404 Not Found
+201 Created
+201 Created
+oddish This grass pokemon looks like a radish
+200 OK
+200 OK
+pikachu Everyone knows this pokemon
+bulbasaur it can survive for days just on sunlight
+200 OK

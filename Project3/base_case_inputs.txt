@@ -1,0 +1,18 @@
+get raodm
+PUT kakuna This is a pokemon that looks like a cocoon
+PUT pikachu Bless you!
+PUT pikachu Everyone   knows   this   pokemon
+PUT bulbasaur it can survive for days just on sunlight
+GET raodm
+GET pikachu
+DELETE pikachu
+DELETE kakuna
+DELETE pikachu
+GET pikachu
+GET kakuna
+PUT oddish This grass pokemon looks like a radish
+PUT pikachu Everyone knows this pokemon
+FIND is
+FIND q
+FIND a
+QUIT

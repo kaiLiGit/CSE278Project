@@ -1,0 +1,7 @@
+PUT pikachu nothing
+PUT kakuna ****
+LOAD
+GET pikachu
+GET kakuna
+FIND a
+QUIT
