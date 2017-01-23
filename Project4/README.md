@@ -53,7 +53,7 @@ The contents of the file can be sent to the client line-by-line.
     - When using Chrome, in the search bar, type in: 
         http://ceclnx01.cec.miamioh.edu:Port/Path
         
-    For correct functional testing, you must test the operation of  your web-server using the <wget> command on ceclnx01. 
+    For correct functional testing, you must test the operation of  your web-server using the <wget> command on ceclnx01 (Server resided in Data Center at Miami University). 
     
 *wget* is a simple console program that acts as web-browser to GET data from any given URL with the following option: 
     *The -S option tells wget to print headers sent by the web-server
