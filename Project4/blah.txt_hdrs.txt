@@ -1,0 +1,5 @@
+  HTTP/1.1 404 Not Found
+  Server: SimpleServer
+  Content-Length: 42
+  Connection: Close
+  Content-Type: text/plain
