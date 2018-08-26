@@ -1,24 +1,24 @@
-##Project 4 
+## Project 4 
 
 Server Program
     is the fourth project that entailed using C++. This program is essentially ran by the server resided at the Data Center at CEC department, Miami University. In NetBeans IDE, connect the IDE with Miami University Server, and all the written C++ programs will be uploaded and synced with the correcponding student ID folder in the database that resides in the server. 
 
-#Program Files 
+# Program Files 
     main.cpp
     Server.h
     Server.cpp
     
-#Program Description: 
+# Program Description: 
     This Server Program acts as a server that constantly listening requests from a client (e.g. web-browser or mobile app etc) via a given port number (normally, 80 or other). This program serves the client by sending a response, typically, contents of a file requested by the client. 
     In this case, we could use either a web-browser or a terminal with linux commands to run and test the program. 
     
-#Program Implementation and Design Guidelines 
+# Program Implementation and Design Guidelines 
 
     Server class can operate as a web-server that can respond to a GET request for a file path. 
     - Get request format: 
         - GET file HTTP/1.1
     
-    >Web Server Rules: 
+    > Web Server Rules: 
     
 1. If the file is / the server should respond with contents of given file, index.html 
     
@@ -47,7 +47,7 @@ The contents of the file can be sent to the client line-by-line.
 
    --------------------------------------------------
     
-#Functional Testing 
+# Functional Testing 
 
     main.cpp is used for testing purposes. Run the program in NetBeans first (following Miami Coding Guidelines, if no errors incur), if using web-browser to do initial testing. 
     - When using Chrome, in the search bar, type in: 
